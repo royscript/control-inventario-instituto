@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "control-inventario-instituto",
+    "slug": "control-inventario-instituto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
